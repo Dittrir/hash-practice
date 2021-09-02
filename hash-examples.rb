@@ -4,7 +4,12 @@ car = {
   "Mercedes" => "Sprinter"}
 
 animal = {
-  "Dog" => "Alphy",
-  "Squirrel" => "Chippy",
-  "Cat" => "Roger"
+  "Dog" => 'Alphy',
+  "Squirrel" => 'Chippy',
+  "Cat" => 'Roger'
+}
+
+customer = {
+  "Jon" => 'tall',
+  "James" => 'short'
 }
